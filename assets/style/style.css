@@ -46,6 +46,7 @@ p {
 }
 h2 {
     font-weight: 700;
+    color: #1C2661;
 }
 h5 {
     font-weight: 600;
@@ -132,4 +133,14 @@ h5 {
     height: auto; /* Pertahankan aspek rasio */
     aspect-ratio: 1280 / 618; /* Atur rasio sesuai kebutuhan */
     margin: 0 auto; /* Tengah secara horizontal */
+}
+.tname {
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+}
+.jabatan {
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
 }
