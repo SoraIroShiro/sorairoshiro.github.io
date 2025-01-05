@@ -7,3 +7,116 @@
 body {
     font-family: var(--main-font);
 }
+
+.hero {
+    background-color: #f9f9ff;
+    padding: 50px 0;
+}
+.features {
+    padding: 50px 0;
+}
+.about {
+    padding: 50px 0;
+}
+.articles {
+    padding: 50px 0;
+}
+.navbar-nav{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 auto;
+}
+.navbar-nav .nav-link:hover { 
+    color: #642ABB !important;
+}
+.btnppdb {
+    font-weight: 600;
+}
+p {
+    font-weight: 400;
+    font-size: 24px;
+}
+.btnreg {
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #F73ECF;
+}
+.btnreg:hover {
+    background-color: #d401a7;
+}
+h2 {
+    font-weight: 700;
+}
+h5 {
+    font-weight: 600;
+}
+.icon1 {
+    width: 80px;
+    height: 80px;
+}
+.card-title {
+    font-weight: 700;
+    font-size: 20px;
+}
+.cardtag {
+    margin-top: 10px;
+    padding: 7px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #642ABB;
+    background-color: #dccaf7;
+    width: 140px;
+}
+.card-text {
+    font-weight: 400;
+    font-size: 16px;
+}
+.showall {
+    font-size: 24;
+    font-weight: 400;
+    color: #642ABB;
+}
+.showall:hover {
+    color: #2a0168;
+}
+.card-gal1 {
+    background-color: #642ABB;
+}
+.card-gal2 {
+    background-color: #F9BB50
+}
+.card-gal3 {
+    background-color: #F63FCF
+}
+.gal-title {
+    font-size: 24;
+    font-weight: 500;
+    color: white;
+}
+.footer {
+    background-color: #f8f5ff;
+    padding: 40px 0;
+}
+.footer a {
+    color : #404040;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: none;
+    color: #642ABB;
+}
+.footer-text {
+    font-weight: 400;
+    font-size: 20;
+    text-decoration: none;
+}
+.footer-nav{
+    color: #642ABB;
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.navbar-nav .nav-link.active {
+    color: #642ABB !important;
+    font-weight: bold;
+}
