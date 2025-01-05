@@ -125,3 +125,11 @@ h5 {
     font-size: 24px;
     color: #1C2661;
 }
+.custom-ratio {
+    position: relative;
+    width: 100%;
+    max-width: 1280px; /* Batas maksimum lebar */
+    height: auto; /* Pertahankan aspek rasio */
+    aspect-ratio: 1280 / 618; /* Atur rasio sesuai kebutuhan */
+    margin: 0 auto; /* Tengah secara horizontal */
+}
