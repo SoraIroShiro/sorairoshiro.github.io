@@ -176,3 +176,25 @@ h5 {
     color: #FFFFFF;
     padding-left: 10px;
 }
+.detailart-tag {
+    margin-top: 10px;
+    padding: 7px;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    background-color: #F73ECF;
+    width: 140px;
+    border-radius: 24px;
+}
+.writer {
+    font-weight: 400px;
+    font-size: 20px;
+    color: #3A3B41;
+    text-align: justify;
+}
+.article-content {
+    font-weight: 400px;
+    font-size: 20px;
+    color: #3A3B41;
+    text-align: justify;
+}
