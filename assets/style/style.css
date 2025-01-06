@@ -198,3 +198,49 @@ h5 {
     color: #3A3B41;
     text-align: justify;
 }
+
+
+
+
+.contact-section {
+    background-color: #f9f9ff;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icon {
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+}
+
+.bg-pink {
+    background-color: #ff4df5;
+}
+
+.bg-yellow {
+    background-color: #f5a623;
+}
+
+.bg-blue {
+    background-color: #17a2b8;
+}
+
+.btn-pink {
+    background-color: #ff4df5;
+    color: #fff;
+}
+
+.btn-pink:hover {
+    background-color: #e03ae0;
+}
+
+.text-primary {
+    color: #19245F !important;
+    font-weight: 700;
+    font-size: 64px;
+}    
+.text-2{
+    font-weight: 600;
+    font-size: 24px;
+}
