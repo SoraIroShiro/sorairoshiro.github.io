@@ -144,3 +144,35 @@ h5 {
     font-size: 16px;
     color: white;
 }
+.tag {
+    font-weight: 400;
+    font-size: 14px;
+    width: 140px;
+}
+.ttlarticles1 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #1C2661;
+}
+.ttlarticles2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #1C2661;
+}
+.articles1 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #3A3B41;
+}
+.ttlarticles3 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #1C2661;
+    padding-bottom: 10px;
+}
+.readnextart {
+    font-weight: 500px;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-left: 10px;
+}
